@@ -1,6 +1,6 @@
 # Assistente Virtual para Acessibilidade Digital (Protótipo "Conecta Simples")
 
-**Autor:** [Seu Nome Aqui - ou seu Nick da Imersão]
+**Autor:** [Járbio Mulhovo]
 **Projeto para:** Imersão IA Alura + Google Gemini (Maio 2025)
 
 ## Descrição do Projeto
@@ -22,7 +22,7 @@ O assistente utiliza o poder do Google Gemini para compreender linguagem natural
     *   Uma Chave de API do Google Gemini (Google AI Studio).
 
 2.  **Configuração:**
-    *   Abra este notebook (`Novo.ipynb`) no Google Colab.
+    *   Abra este notebook (`Assistente_Acessibilidade.ipynb`) no Google Colab.
     *   No menu à esquerda do Colab, clique no ícone de uma **chave (🔑) chamado "Secrets"**.
     *   Clique em "+ Adicionar novo secret".
     *   No campo "Nome", digite EXATAMENTE `GOOGLE_API_KEY`.
