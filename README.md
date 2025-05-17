@@ -1,6 +1,6 @@
 # Assistente Virtual para Acessibilidade Digital (Protótipo "Conecta Simples")
 
-**Autor:** [Járbio Mulhovo]
+**Autor:** Járbio Mulhovo
 **Projeto para:** Imersão IA Alura + Google Gemini (Maio 2025)
 
 ## Descrição do Projeto
