@@ -43,4 +43,3 @@ O assistente utiliza o poder do Google Gemini para compreender linguagem natural
 *   Python
 *   Google Gemini API (através da biblioteca `google-generativeai`)
 *   Google Colab (para desenvolvimento e prototipagem)
-```    *   **Járbio Mulhovo**
