@@ -1,5 +1,7 @@
 # Assistente Virtual para Acessibilidade Digital (Protótipo "Conecta Simples")
 
+![Cérebro Digital IA](cerebro_digital_ia.gif)
+
 **Autor:** Járbio Mulhovo
 **Projeto para:** Imersão IA Alura + Google Gemini (Maio 2025)
 
